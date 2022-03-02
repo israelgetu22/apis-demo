@@ -1,0 +1,14 @@
+button {
+  font-size: 70px;
+  width: 800px;
+  background-color: aqua;
+  color: blue;
+  font-family: sans-serif;
+  align-items: center;
+  padding: 10px 10px;
+  box-shadow: 7px 7px brown;
+  text-shadow: 4px 4px black;
+}
+
+button :hover {
+}
